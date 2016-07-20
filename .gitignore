@@ -1,0 +1,8 @@
+# remove object files from build
+*.[oa]
+
+# remove text editors temporary files
+*~
+.*.swp
+.*.swo
+
